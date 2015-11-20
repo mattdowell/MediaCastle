@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/matt/Development/MediaCastle/app/build/intermediates/res/merged/debug/layout/delete_files_list.xml",
+        "source": "/Users/matt/Development/MediaCastle/app/src/main/res/layout/delete_files_list.xml"
+    },
+    {
+        "merged": "/Users/matt/Development/MediaCastle/app/build/intermediates/res/merged/debug/layout/ret_image_layout.xml",
+        "source": "/Users/matt/Development/MediaCastle/app/src/main/res/layout/ret_image_layout.xml"
+    },
+    {
+        "merged": "/Users/matt/Development/MediaCastle/app/build/intermediates/res/merged/debug/layout/about_layout.xml",
+        "source": "/Users/matt/Development/MediaCastle/app/src/main/res/layout/about_layout.xml"
+    },
+    {
+        "merged": "/Users/matt/Development/MediaCastle/app/build/intermediates/res/merged/debug/layout/image_item.xml",
+        "source": "/Users/matt/Development/MediaCastle/app/src/main/res/layout/image_item.xml"
+    },
+    {
+        "merged": "/Users/matt/Development/MediaCastle/app/build/intermediates/res/merged/debug/layout/display_unencrypted_file_layout.xml",
+        "source": "/Users/matt/Development/MediaCastle/app/src/main/res/layout/display_unencrypted_file_layout.xml"
+    },
+    {
+        "merged": "/Users/matt/Development/MediaCastle/app/build/intermediates/res/merged/debug/layout/import_files_list.xml",
+        "source": "/Users/matt/Development/MediaCastle/app/src/main/res/layout/import_files_list.xml"
+    },
+    {
+        "merged": "/Users/matt/Development/MediaCastle/app/build/intermediates/res/merged/debug/layout/enterpwd.xml",
+        "source": "/Users/matt/Development/MediaCastle/app/src/main/res/layout/enterpwd.xml"
+    },
+    {
+        "merged": "/Users/matt/Development/MediaCastle/app/build/intermediates/res/merged/debug/layout/createpassword.xml",
+        "source": "/Users/matt/Development/MediaCastle/app/src/main/res/layout/createpassword.xml"
+    },
+    {
+        "merged": "/Users/matt/Development/MediaCastle/app/build/intermediates/res/merged/debug/layout/disp_secured_files.xml",
+        "source": "/Users/matt/Development/MediaCastle/app/src/main/res/layout/disp_secured_files.xml"
+    }
+]

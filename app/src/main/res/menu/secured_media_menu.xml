@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<!-- item android:id="@+id/take_picture" android:title="@string/Take_Picture" 
+		android:icon="@drawable/camera_icon_32x32" / -->
+
+	<item android:id="@+id/import_pics" android:title="@string/Import"
+		android:icon="@drawable/encrypt" />
+
+	<item android:id="@+id/move_img_bk" android:title="@string/return_image"
+		android:icon="@drawable/back" />
+
+	<item android:title="@string/Delete_Images" android:id="@+id/delete_images"
+		android:icon="@drawable/delete" />
+
+	<item android:id="@+id/change_pwd" android:title="@string/change_pwd"
+		android:icon="@drawable/password" />
+
+	<item android:id="@+id/logout" android:title="@string/logout"
+		android:icon="@drawable/exit"></item>
+		
+	<item android:id="@+id/about" android:title="@string/about"
+		android:icon="@drawable/about"></item>		
+</menu>

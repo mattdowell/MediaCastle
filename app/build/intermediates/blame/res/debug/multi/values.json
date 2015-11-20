@@ -1,0 +1,254 @@
+[
+    {
+        "outputFile": "/Users/matt/Development/MediaCastle/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 494,
+                    "endColumn": 48,
+                    "endOffset": 538
+                },
+                "from": {
+                    "file": "/Users/matt/Development/MediaCastle/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 92,
+                        "endColumn": 45,
+                        "endOffset": 136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 41,
+                    "endOffset": 580
+                },
+                "from": {
+                    "file": "/Users/matt/Development/MediaCastle/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 53,
+                        "endColumn": 38,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 585,
+                    "endColumn": 39,
+                    "endOffset": 620
+                },
+                "from": {
+                    "file": "/Users/matt/Development/MediaCastle/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 236,
+                        "endColumn": 36,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 625,
+                    "endColumn": 87,
+                    "endOffset": 708
+                },
+                "from": {
+                    "file": "/Users/matt/Development/MediaCastle/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 314,
+                        "endColumn": 84,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 713,
+                    "endColumn": 48,
+                    "endOffset": 757
+                },
+                "from": {
+                    "file": "/Users/matt/Development/MediaCastle/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 399,
+                        "endColumn": 45,
+                        "endOffset": 443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 762,
+                    "endColumn": 49,
+                    "endOffset": 807
+                },
+                "from": {
+                    "file": "/Users/matt/Development/MediaCastle/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 138,
+                        "endColumn": 46,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 812,
+                    "endColumn": 51,
+                    "endOffset": 859
+                },
+                "from": {
+                    "file": "/Users/matt/Development/MediaCastle/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 502,
+                        "endColumn": 48,
+                        "endOffset": 549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 864,
+                    "endColumn": 52,
+                    "endOffset": 912
+                },
+                "from": {
+                    "file": "/Users/matt/Development/MediaCastle/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 600,
+                        "endColumn": 49,
+                        "endOffset": 648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 917,
+                    "endColumn": 58,
+                    "endOffset": 971
+                },
+                "from": {
+                    "file": "/Users/matt/Development/MediaCastle/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 650,
+                        "endColumn": 55,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 976,
+                    "endColumn": 51,
+                    "endOffset": 1023
+                },
+                "from": {
+                    "file": "/Users/matt/Development/MediaCastle/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 551,
+                        "endColumn": 48,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1028,
+                    "endColumn": 41,
+                    "endOffset": 1065
+                },
+                "from": {
+                    "file": "/Users/matt/Development/MediaCastle/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 273,
+                        "endColumn": 38,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1070,
+                    "endColumn": 53,
+                    "endOffset": 1119
+                },
+                "from": {
+                    "file": "/Users/matt/Development/MediaCastle/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 185,
+                        "endColumn": 50,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1124,
+                    "endColumn": 59,
+                    "endOffset": 1179
+                },
+                "from": {
+                    "file": "/Users/matt/Development/MediaCastle/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 445,
+                        "endColumn": 56,
+                        "endOffset": 500
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/matt/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/matt/Development/MediaCastle/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0_7b21a69d38a1153c1d58733214b5bbd2626c9082.jar" />
+    </item>
+    <item
+        jar="/Users/matt/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Users/matt/Development/MediaCastle/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_b1ba002c4cf4f6812af4dfced5a89876495be114.jar" />
+    </item>
+    <item
+        jar="/Users/matt/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.8.1/120630f96316e0f173aedf0c88bb06c5e146ad96/metadata-extractor-2.8.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="120630f96316e0f173aedf0c88bb06c5e146ad96">
+        <dex dex="/Users/matt/Development/MediaCastle/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.8.1_bc0a7f96ccc3063b5deb5ab07ba81084fe1aa525.jar" />
+    </item>
+    <item
+        jar="/Users/matt/Development/MediaCastle/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/matt/Development/MediaCastle/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_fa16d4680c61241ca037b5b0d300fc78792c909d.jar" />
+    </item>
+    <item
+        jar="/Users/matt/Development/MediaCastle/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/matt/Development/MediaCastle/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.0.0_3e226aa634e6a26e07e1804ad0f70f898ffa0f9a.jar" />
+    </item>
+
+</items>

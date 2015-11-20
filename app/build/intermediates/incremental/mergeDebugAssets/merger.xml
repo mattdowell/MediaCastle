@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="22.0.0"><source path="/Users/matt/Development/MediaCastle/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/assets"/></dataSet><dataSet config="main"><source path="/Users/matt/Development/MediaCastle/app/src/main/assets"><file name="mc.properties" path="/Users/matt/Development/MediaCastle/app/src/main/assets/mc.properties"/></source></dataSet><dataSet config="debug"><source path="/Users/matt/Development/MediaCastle/app/src/debug/assets"/></dataSet></merger>

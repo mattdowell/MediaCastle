@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Gallery1"><attr name="android:galleryItemBackground"/></declare-styleable>
+    <declare-styleable name="LabelView"><attr format="string" name="text"/><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/></declare-styleable>
+    <declare-styleable name="TogglePrefAttrs"><attr name="android:preferenceLayoutChild"/></declare-styleable>
+    <declare-styleable name="ViewfinderView"/>
+    <string name="Delete_Images">Delete</string>
+    <string name="Import">Import</string>
+    <string name="about">About</string>
+    <string name="app_descrip">MediaCastle: An encrypted castle for your media</string>
+    <string name="app_name">MediaCastle</string>
+    <string name="change_pwd">Change Pwd</string>
+    <string name="done_deleting_text">Done</string>
+    <string name="done_importing_text">Done</string>
+    <string name="done_returning_image_text">Done</string>
+    <string name="enter_castle_text">Enter</string>
+    <string name="logout">Logout</string>
+    <string name="return_image">Return Image</string>
+    <string name="set_password_text">Set Password:</string>
+</resources>

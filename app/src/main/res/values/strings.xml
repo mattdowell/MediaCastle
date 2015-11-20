@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="Import">Import</string>
+	<string name="Delete_Images">Delete</string>
+	<string name="change_pwd">Change Pwd</string>
+	<string name="return_image">Return Image</string>
+	<string name="about">About</string>
+	<string name="logout">Logout</string>
+	
+	<string name="app_descrip">MediaCastle: An encrypted castle for your media</string>
+	<string name="app_name">MediaCastle</string>
+	<string name="set_password_text">Set Password:</string>
+	<string name="done_deleting_text">Done</string>
+	<string name="enter_castle_text">Enter</string>
+	<string name="done_importing_text">Done</string>
+	<string name="done_returning_image_text">Done</string>
+	
+	
+</resources>

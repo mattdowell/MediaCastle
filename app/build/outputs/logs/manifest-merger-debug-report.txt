@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:7:5-84
+	android:name
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:7:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:9:22-78
+uses-sdk
+ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:11:5-13:41
+MERGED from [com.android.support:support-v4:22.0.0] /Users/matt/Development/MediaCastle/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:13:9-38
+		INJECTED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:12:9-34
+		INJECTED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:15:5-63:19
+MERGED from [com.android.support:support-v4:22.0.0] /Users/matt/Development/MediaCastle/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:18:9-41
+	android:allowBackup
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:18:42-68
+	android:icon
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:17:9-40
+	android:description
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:16:9-50
+activity#org.dowell.mediacastle.DeleteImagesActivity
+ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:19:9-23:20
+	android:enabled
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:21:13-35
+	android:windowSoftInputMode
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:22:13-60
+	android:name
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:20:13-48
+activity#org.dowell.mediacastle.DisplayMediaActivity
+ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:24:9-37:20
+	android:enabled
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:27:13-35
+	android:launchMode
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:28:13-43
+	android:windowSoftInputMode
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:29:13-60
+	android:configChanges
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:26:13-48
+	android:name
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:25:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:30:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:31:17-32:26
+	android:name
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:34:17-35:28
+	android:name
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:34:27-74
+activity#org.dowell.mediacastle.EnterPwdActivity
+ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:38:9-42:20
+	android:noHistory
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:40:13-37
+	android:windowSoftInputMode
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:41:13-61
+	android:name
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:39:13-44
+activity#org.dowell.mediacastle.ImportMediaActivity
+ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:43:9-56:20
+	android:clearTaskOnLaunch
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:45:13-45
+	android:excludeFromRecents
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:46:13-46
+	android:noHistory
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:44:13-47
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:48:13-54:29
+	android:label
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:50:17-52
+	android:icon
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:49:17-48
+action#android.intent.action.SEND
+ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:51:17-70
+	android:name
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:51:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:52:27-73
+data
+ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:53:17-52
+	android:mimeType
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:53:23-49
+activity#org.dowell.mediacastle.NewPwdActivity
+ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:57:9-60:20
+	android:windowSoftInputMode
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:59:13-61
+	android:name
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:58:13-42
+activity#org.dowell.mediacastle.RetImgToGalleryActivity
+ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:61:9-62:20
+	android:name
+		ADDED from /Users/matt/Development/MediaCastle/app/src/main/AndroidManifest.xml:61:19-57

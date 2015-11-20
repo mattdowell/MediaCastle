@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.dowell.mediacastle"
+    android:versionCode="8"
+    android:versionName="1.5" >
+
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <!-- uses-permission android:name="android.permission.ACCESS_CHECKIN_PROPERTIES" / -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-sdk
+        android:minSdkVersion="7"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:description="@string/app_descrip"
+        android:icon="@drawable/castle"
+        android:label="@string/app_name" android:allowBackup="true">
+        <activity
+            android:name="DeleteImagesActivity"
+            android:enabled="true"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
+        <activity
+            android:name="DisplayMediaActivity"
+            android:configChanges="orientation"
+            android:enabled="true"
+            android:launchMode="singleTop"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" >
+                </action>
+
+                <category android:name="android.intent.category.LAUNCHER" >
+                </category>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="EnterPwdActivity"
+            android:noHistory="true"
+            android:windowSoftInputMode="stateAlwaysVisible" >
+        </activity>
+        <activity
+            android:name="ImportMediaActivity"
+            android:clearTaskOnLaunch="true"
+            android:excludeFromRecents="true"
+            android:noHistory="true" >
+            <intent-filter
+                android:icon="@drawable/castle"
+                android:label="Move to MediaCastle" >
+                <action android:name="android.intent.action.SEND"  />
+                <category android:name="android.intent.category.DEFAULT"  />
+                <data android:mimeType="image/*" />
+            </intent-filter>
+           
+        </activity>
+        <activity
+            android:name="NewPwdActivity"
+            android:windowSoftInputMode="stateAlwaysVisible" >
+        </activity>
+        <activity android:name="RetImgToGalleryActivity" >
+        </activity>
+    </application>
+
+</manifest>

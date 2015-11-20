@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/matt/Development/MediaCastle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/castle.png",
+        "source": "/Users/matt/Development/MediaCastle/app/src/main/res/drawable-hdpi/castle.png"
+    },
+    {
+        "merged": "/Users/matt/Development/MediaCastle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/delete.png",
+        "source": "/Users/matt/Development/MediaCastle/app/src/main/res/drawable-hdpi/delete.png"
+    },
+    {
+        "merged": "/Users/matt/Development/MediaCastle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/about.png",
+        "source": "/Users/matt/Development/MediaCastle/app/src/main/res/drawable-hdpi/about.png"
+    },
+    {
+        "merged": "/Users/matt/Development/MediaCastle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/next_image.png",
+        "source": "/Users/matt/Development/MediaCastle/app/src/main/res/drawable-hdpi/next_image.png"
+    },
+    {
+        "merged": "/Users/matt/Development/MediaCastle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/previous_image.png",
+        "source": "/Users/matt/Development/MediaCastle/app/src/main/res/drawable-hdpi/previous_image.png"
+    },
+    {
+        "merged": "/Users/matt/Development/MediaCastle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/banner.png",
+        "source": "/Users/matt/Development/MediaCastle/app/src/main/res/drawable-hdpi/banner.png"
+    },
+    {
+        "merged": "/Users/matt/Development/MediaCastle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/close_image.png",
+        "source": "/Users/matt/Development/MediaCastle/app/src/main/res/drawable-hdpi/close_image.png"
+    },
+    {
+        "merged": "/Users/matt/Development/MediaCastle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/encrypt.png",
+        "source": "/Users/matt/Development/MediaCastle/app/src/main/res/drawable-hdpi/encrypt.png"
+    },
+    {
+        "merged": "/Users/matt/Development/MediaCastle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/back.png",
+        "source": "/Users/matt/Development/MediaCastle/app/src/main/res/drawable-hdpi/back.png"
+    },
+    {
+        "merged": "/Users/matt/Development/MediaCastle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/exit.png",
+        "source": "/Users/matt/Development/MediaCastle/app/src/main/res/drawable-hdpi/exit.png"
+    },
+    {
+        "merged": "/Users/matt/Development/MediaCastle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/password.png",
+        "source": "/Users/matt/Development/MediaCastle/app/src/main/res/drawable-hdpi/password.png"
+    }
+]
